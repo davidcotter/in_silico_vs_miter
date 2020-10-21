@@ -1,3 +1,5 @@
+# Assessment of meta-predictor in-silico tools and the variant functional classifier MITER in PPARG and further application to a HMBS dataset
+
 # in_silico_vs_miter
 
 ## NOTEBOOK
@@ -19,7 +21,7 @@ available and therefore alternative methods of analysing variants need to be
 utilised, including in silico prediction tools. To date many such tools have been
 applied in routine clinical genetics practice with limited success.
 * Recent refinements of in silico methods have focused on the development of
-Meta-Predictors devised by machine learning algorithms e.g. REVEL1
+Meta-Predictors devised by machine learning algorithms e.g. REVEL
 * Furthermore, the recent use of novel in vitro approaches has facilitated the
 functional assessment of multiple potential protein variants coded by specific
 genes. An example of this is the functional classifier programme MITER derived
@@ -34,11 +36,11 @@ prediction of FPLD3 susceptibility
 * To determine if a selected combination of in-silico tools provides an effective
 means of predicting PPARG variant pathogenicity relative to MITER
 * To examine whether the most effective combination of in-silico tools selected
-using MITER is also applicable to genetic variants identified in other genotypephenotype paradigms e.g. HMBS and Acute Intermittent Porphyria3
+using MITER is also applicable to genetic variants identified in other genotypephenotype paradigms e.g. HMBS and Acute Intermittent Porphyria
 
 ## METHODS
 
-* PPARG and HMBS variants annotated using Pynnotator2 with scores from a
+* PPARG and HMBS variants annotated using Pynnotator with scores from a
 combination of in-silco prediction tools MutPred, MutationAssessor,
 MutationTaster, CADD, PROVEAN and Polyphen2
 * A definitive functionally characterised HMBS variant bank(HMBS-FC) will be
