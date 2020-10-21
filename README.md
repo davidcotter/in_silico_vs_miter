@@ -1,7 +1,7 @@
 # in_silico_vs_miter
 
 ## NOTEBOOK
-[[I'm a relative reference to a repository file](../blob/master/LICENSE)](./revel_vs_p_causing_fpld3.ipynb)
+[See notebook revel_vs_p_causing_fpld3.ipynb](./revel_vs_p_causing_fpld3.ipynb)
 
 ## BACKGROUND
 * The increasing application of NGS in clinical laboratories has enabled a rapid
